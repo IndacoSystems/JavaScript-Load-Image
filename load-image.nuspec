@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <metadata>
+    <id>iLoadImageJS</id>
+    <version>1.7.0</version>
+    <authors>blueimp</authors>
+    <owners>Indaco Systems</owners>
+    <description>Part of file uploader, modified by Indaco Systems</description>
+    <projectUrl>https://github.com/blueimp/jQuery-File-Upload</projectUrl>
+    <licenseUrl>http://www.apache.org/licenses/LICENSE-2.0</licenseUrl>
+    <tags>upload</tags>
+    <language>en-US</language>
+  </metadata>
+  <files>
+  <file src="load-image.js" target="Content\Scripts\Lib\Vendor\LoadImage\load-image.js" />
+	<file src="load-image-exif-map.js" target="Content\Scripts\Lib\Vendor\LoadImage\load-image-exif-map.js" />
+	<file src="load-image-exif.js" target="Content\Scripts\Lib\Vendor\LoadImage\load-image-exif.js" />
+	<file src="load-image-ios.js" target="Content\Scripts\Lib\Vendor\LoadImage\load-image-ios.js" />
+	<file src="load-image-meta.js" target="Content\Scripts\Lib\Vendor\LoadImage\load-image-meta.js" />
+  </files>
+</package>
